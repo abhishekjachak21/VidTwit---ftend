@@ -1,0 +1,11 @@
+{
+  "name": "vidtwit-ftend",
+  "version": "1.0.0",
+  "description": "ftend of vidtwit proj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Jachak",
+  "license": "ISC"
+}
